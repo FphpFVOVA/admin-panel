@@ -1,2 +1,2 @@
 # admin-panel
-- password admin
+- password - admin
